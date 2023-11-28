@@ -55,6 +55,7 @@
 		
 * Custom Combat Mechanics
   - Implied Spell Targeting
+  - Pets can tank while taunt is turned on, and Pet taunt is AoE
   - Spells can proc equipped items
   - Long-duration Buffs which are cast by yourself or a group member have suspended timers and do not tick down
   - Disciplines are now spells.
