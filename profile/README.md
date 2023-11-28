@@ -86,35 +86,35 @@
   - Heroic Stat effects only apply to spells you cast from a spell gem at maximum effectiveness. Reduced effectiveness from procs.
   
 * Feat of Strength System
- - Each 'Raid' zone, and many notable group zones are only accessible as instances.
- - Mobs do not respawn inside these instances.
- - Equippable gear drops will be weighted in favor of items which players who are present can equip.
- - You may enter and leave these instances, but if you die, then the the task will be failed and the instance will need to be restarted.
- - These instances have difficulty levels, ranging from 0 to 50.
- - There is a quest associated with each zone, directing you to kill certain mobs or complete certain objectives.
- - You have a character-best and account-best difficulty record for each zone. You may choose to enter at either of those difficulties, or +1 from either of them.
- - You may challenge an instance either solo (a Feat of Strength) or as a group (a Heroic Challenge)
- - Feat of Strength has additional rewards beyond drops and XP in the zone;
-	- If the difficulty level is greater than your character-best record, your character-best record will be updated.
-	- If the difficulty level is greater than your account-best record, you will recieve a reward in Pyre Essence - a vital resource alternate progression on Pyrelight.
-	- If your account-best record was modified, you will be unable to challenge the zone at an increased difficulty for 20 hours.
- - Your total earned Pyre Essence is tied to your account. Your total spent is tracked per-character.
- - Pyre Essence may be spent to earn permanent rewards for your character; bonus XP rates, drop rates, unique AA, upgrades to your Power Source, unique equipment, etc.
- - Certain items may be refundable, certain won't be refundable without a character reset (see Multiclassing).
- - Improved items have an increased chance of dropping in higher difficulty instances, and at a higher degree of improvement. 
- - Named have an increased chance of spawning in higher difficulty instances.
+	 - Each 'Raid' zone, and many notable group zones are only accessible as instances.
+	 - Mobs do not respawn inside these instances.
+	 - Equippable gear drops will be weighted in favor of items which players who are present can equip.
+	 - You may enter and leave these instances, but if you die, then the the task will be failed and the instance will need to be restarted.
+	 - These instances have difficulty levels, ranging from 0 to 50.
+	 - There is a quest associated with each zone, directing you to kill certain mobs or complete certain objectives.
+	 - You have a character-best and account-best difficulty record for each zone. You may choose to enter at either of those difficulties, or +1 from either of them.
+	 - You may challenge an instance either solo (a Feat of Strength) or as a group (a Heroic Challenge)
+	 - Feat of Strength has additional rewards beyond drops and XP in the zone;
+		- If the difficulty level is greater than your character-best record, your character-best record will be updated.
+		- If the difficulty level is greater than your account-best record, you will recieve a reward in Pyre Essence - a vital resource alternate progression on Pyrelight.
+		- If your account-best record was modified, you will be unable to challenge the zone at an increased difficulty for 20 hours.
+	 - Your total earned Pyre Essence is tied to your account. Your total spent is tracked per-character.
+	 - Pyre Essence may be spent to earn permanent rewards for your character; bonus XP rates, drop rates, unique AA, upgrades to your Power Source, unique equipment, etc.
+	 - Certain items may be refundable, certain won't be refundable without a character reset (see Multiclassing).
+	 - Improved items have an increased chance of dropping in higher difficulty instances, and at a higher degree of improvement. 
+	 - Named have an increased chance of spawning in higher difficulty instances.
  
 * Item Improvement System
- - Each equippable item has 12 variations; Base, +1 through +10, and Pyrebound.
- - Items of up to +3 degree may be dropped in the world outside of instances.
- - The maximum improvement degree of items found in instances is determined by their difficulty rating.
- - Artificer Cedric in the Bazaar may improve items through the expenditure of both platinum and AA points.
- - Pyrebound items may only be created by players, they can never drop. They can only be created by upgrading a +10 degree item through the use of Pyre Essence.
- - Pyrebound items may be destroyed to refund Pyre Essence.
+	- Each equippable item has 12 variations; Base, +1 through +10, and Pyrebound.
+	- Items of up to +3 degree may be dropped in the world outside of instances.
+ 	- The maximum improvement degree of items found in instances is determined by their difficulty rating.
+ 	- Artificer Cedric in the Bazaar may improve items through the expenditure of both platinum and AA points.
+	- Pyrebound items may only be created by players, they can never drop. They can only be created by upgrading a +10 degree item through the use of Pyre Essence.
+ 	- Pyrebound items may be destroyed to refund Pyre Essence.
  
 * Progression
- - Nexus and The Bazaar are the hub zone.
- - New characters are limited to level 51, Classic + Kunark zones.
- - Unlock quest to obtain access to level 60 + Velious, then Luclin & Tertiary Class.
- - Next expansion to unlock will be Gates of Discord, then Omens of War, then Dragons of Norrath, then Planes of Power
- - Expansion unlocks are account-wide
+ 	- Nexus and The Bazaar are the hub zone.
+ 	- New characters are limited to level 51, Classic + Kunark zones.
+	 - Unlock quest to obtain access to level 60 + Velious, then Luclin & Tertiary Class.
+	 - Next expansion to unlock will be Gates of Discord, then Omens of War, then Dragons of Norrath, then Planes of Power
+	 - Expansion unlocks are account-wide
