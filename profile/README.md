@@ -1,6 +1,6 @@
 * Account-Level Progression
   - Fast Travel Waypoints
-  - Expansion Unlocks
+  - Expansion/Zone Unlocks
   - Keys and Flags
   - Feat of Strength progress
   
